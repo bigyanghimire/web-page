@@ -1,0 +1,123 @@
+body{
+    font-family: "lato" !important;
+}
+.navbar{
+    background: transparent !important;
+    color:black !important;
+    height:100px;
+}
+.main{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/main2.jpg") no-repeat;
+    background-size: 100% 100%;
+    min-height:650px;
+    padding-bottom: 40px;
+    
+}
+#main-header{
+        margin-top:100px;
+        text-align: center;
+        color:white;
+        font-size:55px;
+        line-height: 54px;
+        font-family: "Lato";
+}
+
+#p-des{
+    font-family: "Lato";
+    text-align: center;
+    color:white;
+    font-size:24px;
+    line-height: 30px;  
+}
+#main-btn{
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background-color: #7bc74d;
+    background-image: none;
+    border: 1px solid #62ab36;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    height: auto;
+    margin-left:30%;
+    margin-right:30%;
+    width: 40%;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin-top:40px;
+    text-transform: uppercase;
+}
+.trusted-by{
+    position: relative;
+}
+.my-4{
+    text-align: center;
+}
+.des1{
+    width: 100% !important;
+    background: #5588EE;   
+    padding:40px;
+color:white;
+}
+#des1-text{
+    text-align: center;
+    line-height: 30px;
+}
+.img-fluid2{
+    height:300px !important;
+    border-radius:7px;
+    width: 100% !important;
+    box-shadow:0 4px 8px 0px #ccc;
+}
+.fa-star{
+    font-size:40px;
+    text-align: center;
+    color:blue;
+    margin-top:20px;
+}
+.fa-sms{
+    font-size:40px;
+    text-align: center;
+    color:blue;
+    margin-top:20px;
+}
+.fa-chart-bar{
+    font-size:40px;
+    text-align: center;
+    color:blue;
+    margin-top:20px;   
+}
+.card-title2{
+    text-align: center;
+}
+#final-btn{
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background-color: #7bc74d;
+    background-image: none;
+    border: 1px solid #62ab36;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    height: auto;
+    margin-left:30%;
+    margin-right:30%;
+    width: 40%;
+    padding: 15px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top:50px;
+}
+.page-footer{
+    background: #7bc74d;
+    margin-top:30px;
+    width: 100% !important;
+    margin-right: 0px !important;
+}
+.h-1001{
+    box-shadow:0 4px 8px 0px #ccc;
+}
